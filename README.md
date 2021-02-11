@@ -1,4 +1,4 @@
-### Hi there 👋
+![alt text](https://media.giphy.com/media/cLB6YgcOiYmKRZqk8Z/giphy.gif "Hello there")
 
 <!--
 **wondrousWebWorks/wondrousWebWorks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
