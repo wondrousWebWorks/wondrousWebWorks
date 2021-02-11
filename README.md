@@ -1,4 +1,4 @@
-![alt text](http://gph.is/2t7EBux "Hello there")
+![alt text](https://media.giphy.com/media/lIzAEoZEn571u/giphy.gif "Hello there")
 
 I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yourself comfortable while having a look around and please reach out if you've got any questions.
 
