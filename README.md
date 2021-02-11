@@ -15,7 +15,7 @@ I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yours
 ![CSS](https://img.shields.io/static/v1?label=CSS&message=3&color=1572B6&style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/static/v1?label=JavaScript&message=ES8&style=for-the-badge&color=F7DF1E&logo=JavaScript)
 ![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&message=3&color=3776AB&logo=PYTHON)
-![SCSS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&color=CC6699&logo=sass)
+![SCSS](https://img.shields.io/static/v1?label=sass&style=for-the-badge&message=👍&color=CC6699&logo=sass)
 
 ### Libraries || Frameworks I use
 
