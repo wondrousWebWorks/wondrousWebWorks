@@ -21,5 +21,5 @@ I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yours
 
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.2&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.1&color=092E20&logo=django)
-![FastAPI](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=0.6&color=009485&logo=fastapi)
+![FastAPI](https://img.shields.io/static/v1?label=FastAPI&style=for-the-badge&message=0.6&color=009485&logo=fastapi)
 ![Django](https://img.shields.io/static/v1?label=Django-REST-Framework&style=for-the-badge&message=3.1&color=a30000&logo=django)
