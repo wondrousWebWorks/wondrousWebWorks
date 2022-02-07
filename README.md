@@ -2,11 +2,11 @@
 
 I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yourself comfortable while having a look around and please reach out if you've got any questions.
 
-- 🔭 I’m currently working on School Management app
-- 🌱 I’m currently learning fastAPI and Rust
+- 🔭 I’m currently working on mastering Data Analytics, Data Mining and Machine Learning
+- 🌱 I’m currently learning the theory behind Machine Learning at DCU
 - 💬 Ask me about the meaning of life
 - 📫 How to reach me: alberts.johann@gmail.com
-- 😄 Pronouns: He/Him/The Great
+- 😄 Pronouns: The Great/The Magnificent
 - ⚡ Fun fact: I am the reigning World's Best Father with **five** printed mugs to back it up
 
 ### Languages I Know
@@ -23,3 +23,4 @@ I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yours
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.1&color=092E20&logo=django)
 ![FastAPI](https://img.shields.io/static/v1?label=FastAPI&style=for-the-badge&message=0.6&color=009485&logo=fastapi)
 ![Django](https://img.shields.io/static/v1?label=Django-REST-Framework&style=for-the-badge&message=3.1&color=a30000&logo=django)
+![Django](https://img.shields.io/badge/Pandas-latest-blue)
