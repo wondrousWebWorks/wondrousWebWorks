@@ -3,7 +3,7 @@
 I'm Johann. Welcome to my GitHub home. I'm super stoked to have here! Make yourself comfortable while having a look around and please reach out if you've got any questions.
 
 - 🔭 I’m currently working on mastering Data Analytics, Data Mining and Machine Learning
-- 🌱 I’m currently learning the theory behind Machine Learning at DCU
+- 🌱 I’m currently doing an MSc in AI at the University of Limerick
 - 💬 Ask me about the meaning of life
 - 📫 How to reach me: alberts.johann@gmail.com
 - 😄 Pronouns: The Great/The Magnificent
